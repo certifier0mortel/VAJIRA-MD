@@ -2,7 +2,7 @@
     "name": "ＶＡＪＩＲＡ - ＭＤ - Ｖ4 WhatsApp Bot",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
     "repository": "https://github.com/vajirabot1/VAJIRA-MD",
-    "logo": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg",
+    "logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fsearch%3Fq%3Dsung%2Bjin%2Bwoo&psig=AOvVaw0jHMX3eGRqigjr7tv0wkDv&ust=1715441746962000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiv7tG0g4YDFQAAAAAdAAAAABAE",
     "keywords": [
         "nodejs",
         "Bot",
@@ -17,23 +17,25 @@
             "value": "put session id here"
         },
         "PREFIX": {
-            "description": "put prefix here",
+            "description": "!",
             "required": true,
-            "value": "."      
+            "value": "!"      
         },
         "LANG": {
-            "description": "To put bot sinhala do not fill here. you want to put bot english put EN here",
+            "description": "EN",
             "required": true
         },
         "OWNER-NAME": {
-            "description": "put Your name herd",
+            "description": "꧁ঔ☠︎₷𝘂𝗻ℊᎫ𝒊𝙣𝙒ℴℴ☠︎ঔ꧂
+",
             "required": true,
-            "value": "Vajira"      
+            "value": "꧁ঔ☠︎₷𝘂𝗻ℊᎫ𝒊𝙣𝙒ℴℴ☠︎ঔ꧂
+"      
         },
         "OWNER_NUMBER": {
-            "description": "put your number here",
+            "description": "33775804415",
             "required": true,
-            "value": "94719199757"
+            "value": "33775804415"
         },
         "IMAGE": {
             "description": "Put bot image url here",
